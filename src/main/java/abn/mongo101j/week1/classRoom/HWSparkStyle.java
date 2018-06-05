@@ -1,4 +1,4 @@
-package abn.mongo101j;
+package abn.mongo101j.week1.classRoom;
 
 import static spark.Spark.get;
 

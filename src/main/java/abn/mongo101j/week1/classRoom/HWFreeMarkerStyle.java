@@ -1,4 +1,4 @@
-package abn.mongo101j;
+package abn.mongo101j.week1.classRoom;
 
 import freemarker.template.Configuration;
 import freemarker.template.Template;
